@@ -1,0 +1,3 @@
+Alias
+#!/bin/bash
+If='ls rm *'
